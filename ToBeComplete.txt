@@ -1,0 +1,10 @@
+7.24
+(1)arbook添加热部署  clear 7.25
+(2)本机下载jdk8,否则arbook项目启动报错  clear 7.25
+
+
+7.26
+(1)web项目文件上传位置最好放在哪里？
+(2)本机安装postgresql数据库
+(3)按照书本上所述的结构，将css,js等文件放在static文件夹下,html文件放在template文件夹下试一下效果如何
+(4)学习一下本机上git的相关文档(文档看着不错,值得用时间学习),安装tortoisegit并学习使用
