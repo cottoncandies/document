@@ -6,12 +6,12 @@
 7.26
 (1)web项目文件上传位置最好放在哪里？1.可以存放在项目中  2.建议存放在服务器固定目录下
 (2)本机安装postgresql数据库
-(3)按照书本上所述的结构，将css,js等文件放在static文件夹下,html文件放在template文件夹下试一下效果如何 (目前暂时不可以,可能是没有相关的配置,以后再处理这个问题,不影响大局)
+(3)按照书本(springboot2从构建小系统到架构分布式大系统)上所述的结构，将css,js等文件放在static文件夹下,html文件放在template文件夹下试一下效果如何 (目前暂时不可以,可能是没有相关的配置,以后再处理这个问题,不影响大局)
 (4)学习一下自己电脑上git的相关文档(文档看着不错,值得用时间学习),安装tortoisegit并学习使用
 
 
 7.30
-(1)用Jackson 的注解 @JacksonProperty 和 JacksonIgnore 替换arbook项目中的VO
+(1)用Jackson 的注解 @JacksonProperty 和 JacksonIgnore 替换arbook项目中的VO  clear 7.31 
 (2)arbook 接口文档中计算zip文件流的大小实现思路    clear 7.31
 	(2.1)输出zip文件已经实现,代码不需要做改动
 	(2.2)输出之前将文件打包(用ZipInputStream获取文件),并计算zip文件流的大小(暂时是这样想的,还未实现)
